@@ -1,4 +1,6 @@
 
 theme name:		gamehistoria\
-Description:		based on the boxalloy theme by RetroHursty69\
-author:			Vitor Monteiro
+version:  1.0\
+Description:		based on the showcase theme by dmmarti\
+author:			Vitor Monteiro (Hyperion)\
+site: http://setordigital.blogspot.com.br
